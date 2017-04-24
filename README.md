@@ -310,3 +310,33 @@ import 'element-ui/lib/theme-default/index.css';    // 默认主题
 ### 浅绿色皮肤 ###
 
 ![Image text](https://github.com/lin-xin/manage-system/raw/master/screenshots/wms2.png)
+
+> this is a vue and element demo
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run e2e tests
+npm run e2e
+
+# run all tests
+npm test
+```
+
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
