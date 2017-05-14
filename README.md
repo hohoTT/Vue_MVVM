@@ -1,6 +1,6 @@
 # Vue_MVVM
 
-该项目主要记录Vue MVVM框架学习心得体会，以及学习过程中的笔记
+该项目主要记录Vue MVVM框架学习心得体会，以及学习过程中的笔记 
 
 [参考请看](https://github.com/lin-xin/vue-manage-system)
 基于Vue.js 2.x系列 + Element UI 的后台管理系统解决方案。[线上地址](http://work.omwteam.com/)   
